@@ -1,4 +1,4 @@
-# HR analytics project using Tableau 
+# HR analytics using Tableau 
 
 ## The following KPIs were analyzed in detail:
 
