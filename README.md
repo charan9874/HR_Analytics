@@ -1,4 +1,5 @@
 # HR analytics using Tableau 
+![HR logo](https://discoverytools.org/wp-content/uploads/2019/06/hr-analytics-10-1024x576.png)
 
 ## The following KPIs were analyzed in detail:
 
